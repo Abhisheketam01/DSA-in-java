@@ -18,6 +18,14 @@ public class SwapNumbers{
 
         System.out.println("After swapping the value of a is :" + a + " and b is :" + b);
 
+        // without using swap
+
+        a = a + b;
+        b = a - b;
+        a = a - b;
+
+        System.out.println("After swapping (without temp): a = " + a + ", b = " + b);
+
         sc.close();
 
     }
