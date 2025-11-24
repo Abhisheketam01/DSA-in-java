@@ -47,4 +47,8 @@ LEARN - BUILD - EXECUTE
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
