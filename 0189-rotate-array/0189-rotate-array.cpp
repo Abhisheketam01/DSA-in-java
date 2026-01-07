@@ -11,7 +11,7 @@ public :
         // Step 2: reverse first k elements
         reverse(nums.begin(), nums.begin() + k);
         // Step 3: reverse remaining n-k elements
-        reverse(nums.begin() + k, nums.end());
+        reverse(nums.begin() + k, nums.end());;
     }
 
 
