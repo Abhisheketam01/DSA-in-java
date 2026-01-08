@@ -14,25 +14,20 @@ public :
         reverse(nums.begin() + k, nums.end());
     } 
 };
-
-
 /*
-#include <algorithm> // for reverse
-#include <vector>
-using namespace std;
-
 class Solution {
-public:
-    void rotateLeft(vector<int>& nums, int k) {
+public :
+    void rotate(vector<int>& nums, int k){
+        int  nums[] = { 1 , 2, 3, 4, 5} , k = 2
         int n = nums.size();
-        k = k % n; // handle cases where k > n
-
-        // Step 1: reverse first k elements
-        reverse(nums.begin(), nums.begin() + k);
-        // Step 2: reverse remaining n-k elements
-        reverse(nums.begin() + k, nums.end());
-        // Step 3: reverse whole array
+        k = k % n;
         reverse(nums.begin(), nums.end());
+        { 5 , 4, 3, 2, 1}
+        reverse(nums.begin(), nums.begin()+k);
+        { 4, 5 , 3, 2 , 1}
+        revrse(nums.begin() + k,  nums.end());
+        {4 , 5, 1, 2 , 3}
     }
-};
+}
+
 */
