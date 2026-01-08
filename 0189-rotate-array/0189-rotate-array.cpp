@@ -13,8 +13,6 @@ public :
         // Step 3: reverse remaining n-k elements
         reverse(nums.begin() + k, nums.end());
     }
-
-
 };
 
 
