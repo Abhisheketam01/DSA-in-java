@@ -32,6 +32,7 @@ LEARN - BUILD - EXECUTE
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -75,4 +76,8 @@ LEARN - BUILD - EXECUTE
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0707-design-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
