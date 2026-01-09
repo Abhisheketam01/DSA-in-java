@@ -70,4 +70,9 @@ LEARN - BUILD - EXECUTE
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
