@@ -6,6 +6,7 @@ LEARN - BUILD - EXECUTE
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0238-product-of-array-except-self) |
@@ -33,6 +34,7 @@ LEARN - BUILD - EXECUTE
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -81,4 +83,8 @@ LEARN - BUILD - EXECUTE
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0191-number-of-1-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
