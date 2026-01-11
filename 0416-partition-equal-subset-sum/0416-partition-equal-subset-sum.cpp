@@ -91,6 +91,17 @@ public :
                     If dp[x] = false:
                     “Nope, impossible so far.”
                 dp[s] = dp[s] || dp[s - num]
+                7️⃣ Ultra-Simple Mental Formula (Write This)
+                    NewSum
+                    =
+                    OldSum
+                    +
+                    CurrentNumber
+                    NewSum=OldSum+CurrentNumber
+                        ​
+
+
+                    If OldSum was possible → NewSum becomes possible.
 
 
 
