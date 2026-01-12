@@ -8,6 +8,7 @@ LEARN - BUILD - EXECUTE
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0347-top-k-frequent-elements) |
@@ -23,12 +24,14 @@ LEARN - BUILD - EXECUTE
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0347-top-k-frequent-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhisheketam01/DSA-in-java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Abhisheketam01/DSA-in-java/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0347-top-k-frequent-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhisheketam01/DSA-in-java/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Simulation
@@ -73,6 +76,7 @@ LEARN - BUILD - EXECUTE
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0010-regular-expression-matching) |
+| [0049-group-anagrams](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0344-reverse-string) |
 ## Linked List
