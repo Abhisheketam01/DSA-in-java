@@ -1,22 +1,22 @@
 class Solution {
-public:
-    vector<int> occurrencesOfElement(vector<int>& nums, vector<int>& queries, int x) {
-        int n = nums.size();
-        int q = queries.size();
-        vector<int> ind;
-        for(int i = 0 ; i < n; i++){
+public :
+    vector<int> occurrencesOfElement(vector<int>& nums, vector<int>& queries, int x){
+        /* step 1 , store the indices of x found in nums */
+        vector<int> indices;
+        for(int i = 0;i< nums.size(); i++){
             if(nums[i] == x){
-                ind.push_back(i);
+                indices.push_back(i);
             }
         }
+        /* step 2 . create an array result of size.queries and put -1 */
+        int q = queries.size();
         vector<int> result(q, -1);
         for(int i = 0; i < q; i++){
             int k = queries[i];
-            if(k <= ind.size()){
-                result[i] = ind[k-1];
+            if(k <= indices.size()){
+                result[i] = indices[k-1];
             }
         }
         return result;
-        
     }
 };
