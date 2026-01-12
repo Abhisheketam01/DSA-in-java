@@ -15,6 +15,7 @@ LEARN - BUILD - EXECUTE
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhisheketam01/DSA-in-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhisheketam01/DSA-in-java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Abhisheketam01/DSA-in-java/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/Abhisheketam01/DSA-in-java/tree/master/3683-earliest-time-to-finish-one-task) |
 ## Prefix Sum
 |  |
 | ------- |
