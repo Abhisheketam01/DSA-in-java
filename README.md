@@ -78,6 +78,7 @@ LEARN - BUILD - EXECUTE
 | [0010-regular-expression-matching](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0125-valid-palindrome) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0344-reverse-string) |
 ## Linked List
 |  |
@@ -87,6 +88,7 @@ LEARN - BUILD - EXECUTE
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0707-design-linked-list](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0707-design-linked-list) |
 ## Bit Manipulation
 |  |
@@ -105,4 +107,20 @@ LEARN - BUILD - EXECUTE
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0010-regular-expression-matching) |
+## Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
