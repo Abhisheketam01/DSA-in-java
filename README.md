@@ -11,6 +11,7 @@ LEARN - BUILD - EXECUTE
 | [0049-group-anagrams](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0416-partition-equal-subset-sum) |
 | [0605-can-place-flowers](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0605-can-place-flowers) |
@@ -132,6 +133,7 @@ LEARN - BUILD - EXECUTE
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0605-can-place-flowers) |
 ## Doubly-Linked List
 |  |
