@@ -1,0 +1,47 @@
+class Solution {
+public:
+
+    // BFS function to check cycle starting from node 'start'
+    bool isCycleBFS(int start, vector<int> adj[], vector<bool> &visited) {
+        queue<pair<int,int>> q;  // {node, parent}
+        
+        visited[start] = true;
+        q.push({start, -1});  // Start node has no parent
+        
+        while(!q.empty()) {
+            int node = q.front().first;
+            int parent = q.front().second;
+            q.pop();
+            
+            for(int neighbor : adj[node]) {
+                // If not visited, push into queue
+                if(!visited[neighbor]) {
+                    visited[neighbor] = true;
+                    q.push({neighbor, node});
+                }
+                // If visited and not parent → cycle found
+                else if(neighbor != parent) {
+                    return true;
+                }
+            }
+        }
+        
+        return false;
+    }
+
+    // Function to detect cycle in an undirected graph
+    bool isCycle(int V, vector<int> adj[]) {
+        vector<bool> visited(V, false);
+        
+        // Graph may be disconnected, so check every component
+        for(int i = 0; i < V; i++) {
+            if(!visited[i]) {
+                if(isCycleBFS(i, adj, visited)) {
+                    return true;
+                }
+            }
+        }
+        
+        return false;
+    }
+};
