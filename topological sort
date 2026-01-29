@@ -9,6 +9,6 @@ bfs , just add + stack  = iskiko he bolte kahn algorithm.
 bfs + stack (topological sort) = kahn algorithm.
 khan algothm video - https://youtu.be/uVl4ftleTes?si=oKOA222oGfc0Qs58
 what is indegree? - mai as node lets say any random V , so indegree is - mere pass directly kitne nodes jude hue hai that is indegree , e.g i am V and to me there are 3 x y and x nodes are directly pointing toward me , to me , on m sie 
-the total number of them is rqual to 3 , thats the solution = thats the idegree, done. indegree in kahn algorithm.
+the total number of them is rqual to 3 , thats the solution = thats the idegree, done. indegree in kahn algorithm. we store the array of indegree, that cool.
 jese he in-degree zero ho jaye queue mai daldooo.
 
