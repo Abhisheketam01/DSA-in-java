@@ -13,3 +13,4 @@ the total number of them is rqual to 3 , thats the solution = thats the idegree,
 jese he in-degree zero ho jaye queue mai daldooo.
 
 detect cycle in directed graph in bfs - https://youtu.be/74suJP4bwf0?si=x_C13_0mAHCQm-oC
+cyclic -- no topological sort possible so , 
