@@ -12,3 +12,4 @@ what is indegree? - mai as node lets say any random V , so indegree is - mere pa
 the total number of them is rqual to 3 , thats the solution = thats the idegree, done. indegree in kahn algorithm. we store the array of indegree, that cool.
 jese he in-degree zero ho jaye queue mai daldooo.
 
+detect cycle in directed graph in bfs - https://youtu.be/74suJP4bwf0?si=x_C13_0mAHCQm-oC
