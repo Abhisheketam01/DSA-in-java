@@ -1,4 +1,8 @@
 topological sort = just add stack in it , first parent node u daldo then u , mere bache ke v1, v2, v3, v4, .... but.
+
 https://youtu.be/WbbYZRr4arw?si=etUDOitI98OdPt0N - topolgical sort in graph using  dfs.
+
 dfs + stack  = topoligical sort in graph using bfs.
+
+topological algorithm using dfs , just add + stack  = iskiko he bolte kahn algorithm.
 
