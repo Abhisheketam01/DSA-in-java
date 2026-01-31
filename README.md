@@ -28,6 +28,7 @@ LEARN - BUILD - EXECUTE
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0049-group-anagrams) |
+| [0208-implement-trie-prefix-tree](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0347-top-k-frequent-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhisheketam01/DSA-in-java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Abhisheketam01/DSA-in-java/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -86,6 +87,7 @@ LEARN - BUILD - EXECUTE
 | [0010-regular-expression-matching](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0392-is-subsequence) |
@@ -99,6 +101,7 @@ LEARN - BUILD - EXECUTE
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0707-design-linked-list](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0707-design-linked-list) |
 ## Bit Manipulation
@@ -165,4 +168,8 @@ LEARN - BUILD - EXECUTE
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Abhisheketam01/DSA-in-java/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
